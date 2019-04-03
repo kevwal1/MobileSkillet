@@ -5,7 +5,8 @@ type: panos
 extends: mobile_baseline_panos
 
 labels:
-  service_type: mobile_panos
+  collection: Mario-Kevin Mobile Skillet Testl
+
 
 variables:
   - name: MME_SUBNET

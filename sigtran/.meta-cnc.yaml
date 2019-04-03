@@ -5,7 +5,7 @@ type: panos
 extends: mobile_baseline_panos
 
 labels:
-  service_type: mobile_panos
+  collection: Mario-Kevin Mobile Skillet Testls
 
 variables:
   - name: SIGTRAN_SUBNET
